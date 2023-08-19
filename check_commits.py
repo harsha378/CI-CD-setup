@@ -4,7 +4,7 @@ import json
 # Replace with your GitHub username, repository, and personal access token
 USERNAME = 'harsha378'
 REPO_NAME = 'CI-CD-setup'
-ACCESS_TOKEN = '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'
+ACCESS_TOKEN = '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'
 # URL to the GitHub API endpoint for the commits of the repository
 url = f'https://api.github.com/repos/{USERNAME}/{REPO_NAME}/commits'
 
