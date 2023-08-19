@@ -2,7 +2,7 @@
 
 # Replace with your repository URL and desired directory
 REPO_URL="https://github.com/harsha378/CI-CD-setup.git"
-TARGET_DIR="/home/harsha/html"
+TARGET_DIR="/home/harsha/CI-CD-setup"
 
 # Pull latest code
 echo "Pulling latest code..."
